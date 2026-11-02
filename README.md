@@ -1,4 +1,4 @@
-### 📊 Proyecto RappiPlus: De datos a decisiones de negocio
+# 📊 Proyecto RappiPlus: De datos a decisiones de negocio
 
 Este repositorio documenta el proyecto de **Data Analytics** enfocado en evaluar la efectividad y rentabilidad de "RappiPlus", un servicio de suscripción premium dentro del ecosistema de Rappi. El análisis busca responder interrogantes clave del equipo de negocio sobre el incremento real en la frecuencia de compra, la rentabilidad del modelo y los cuellos de botella en el proceso de conversión de los usuarios.
 
